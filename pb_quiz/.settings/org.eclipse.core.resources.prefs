@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/br/com/pb/projeto/quiz/aplicacao/Quiz.java=UTF-8
+encoding//src/main/java/br/com/pb/projeto/quiz/dao/QuestaoDAO.java=UTF-8
+encoding//src/main/java/br/com/pb/projeto/quiz/dao/ResultadoDAO.java=UTF-8
+encoding//src/main/java/br/com/pb/projeto/quiz/modelo/Questao.java=UTF-8
+encoding//src/main/java/br/com/pb/projeto/quiz/modelo/Resultado.java=UTF-8
